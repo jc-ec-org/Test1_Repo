@@ -2,3 +2,6 @@ This is for testing the commits
 
 
 In developemnt
+
+Checking merging
+
